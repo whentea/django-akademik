@@ -3,12 +3,12 @@ clear
 close
 t=0:20;
 disp(' ')
-a=input('masukkan besar percepatan benda = ');
-vo=input('masukkan besar kecepatan awal = ');
+a=input('Masukkan besar percepatan benda = ');
+vo=input('Masukkan besar kecepatan awal = ');
 disp(' ')
-disp('==========================================')
-disp('== TEKAN ENTER UNTUK MEMPEROLEH SOLUSI  ==')
-disp('==========================================')
+disp('====================================================')
+disp('== TEKAN ENTER UNTUK MEMPEROLEH HASIL dan GRAFIK  ==')
+disp('====================================================')
 disp(' ')
 pause
 v=vo+a*t
