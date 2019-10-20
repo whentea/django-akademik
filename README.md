@@ -1,1 +1,1 @@
-## In this repository, we'll learn about matlab for special purpose.
+## In this repository, we'll learn about matlab-octave-scilab for special purpose.
